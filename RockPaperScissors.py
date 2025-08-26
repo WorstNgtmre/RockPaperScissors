@@ -3,7 +3,7 @@ import random
 
 OPTIONS = {"r": "rock", "p": "paper", "s": "scissors","l": "lizard","k": "spock"}
 
-def play(choice, comp)-> bool:
+def play(choice, comp):
     if choice == comp:
         pass
 
